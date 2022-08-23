@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Beth Barnham",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "Technical SEO Specialist based in Cardiff",
+    "siteUrl": "https://6304a0f2543bfc5db301487a--effortless-toffee-d5761e.netlify.app/",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@bethbarnham_"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
